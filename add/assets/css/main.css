@@ -1,0 +1,30 @@
+.size{
+    font-weight: 600;
+    font-size: 20px;
+}
+.row{
+    border: 2px solid whitesmoke;
+    align-items: center;
+    text-align: center;
+}
+.header{
+    background-color: #415d7c;
+    border-radius: 2px;
+}
+.la-trash{
+    font-size: 26px;
+    color: #dc0000;
+    padding-left: 1rem;
+}
+.la-trash:hover{
+    cursor: pointer;
+    color: #bc0000;
+}
+.la-pen{
+    font-size: 26px;
+    color: #bb9000;
+}
+.la-pen:hover{
+    cursor: pointer;
+    color: #db9000;
+}
